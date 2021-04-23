@@ -21,18 +21,15 @@
     NSLog(@"Hello!");
 }
 
-extern int a=3;
+//extern int a=3;
 
-int main ( ){
-    int a = 2;
-    printf(a);
-    
-    
-    
-    return 0;
-}
-
-
-
+//int main ( ){
+//    int a = 2;
+//    printf(a);
+//
+//
+//
+//    return 0;
+//}
 
 @end
